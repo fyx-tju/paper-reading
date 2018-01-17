@@ -1,17 +1,38 @@
 年份  论文  概要
 2011  Visual odometry [tutorial]  视觉里程计综述
 2012  ImageNet Classification with Deep Convolutional Neural Networks  Alex网络 by Hinton
+2013  Distributed Representations ofWords and Phrases and their Compositionality  词向量google
 2013  Visualizing and Understanding Convolutional Networks  反卷积网络
 2013  Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics 图片描述生成
+2013  Maxout Networks  （maxout操作）
+2013  Regularization of Neural Networks using DropConnect  （drop connect）
+2014  Visualizing and Understanding Convolutional Networks  可视化和理解卷积网络
+2014  Sequence to Sequence Learning with Neural Networks  序列到序列深度学习 google
+2014  Dropout: A Simple Way to Prevent Neural Networks from Overfitting  （dropout）
+2014  Generative Adversarial Nets  对抗网络
 2014  Real-time Depth Enhanced Monocular Odometry  激光辅助单目里程计DEMO
 2014  LOAM: Lidar Odometry and Mapping in Real-time  激光里程计LOAM
+2014  Edge Boxes: Locating Object Proposals from Edges  物体检测
+2014  Recurrent Models of Visual Attention  RNN模型  视觉注意力  deepmind
 2014  Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition 空间金字塔池化
 2014  Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps  显著图-神经网络可视化
+2014  Auto-Encoding Variational Bayes  自编码变分贝叶斯
 2015  Deep Hashing for Compact Binary Codes Learning  深度哈希
-2015  Spatial Transformer Networks  空间转换网络
+2015  Spatial Transformer Networks  空间转换网络 deepmind
+2015  Going Deeper with Convolutions  （googlenet，inception单元）
+2015  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  物体检测网络Faster R-CNN
 2015  Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast  视觉激光里程计VLOAM
+2015  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift  BN层
 2015  Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting  卷积LSTM网络
+2015  DRAW: A Recurrent Neural Network For Image Generation  RNN生成图像
+2015  Pixel Recurrent Neural Networks  RNN生成图像
 2015  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling  图像分割网络，像素级标注
+2015  PARSENET: LOOKING WIDER TO SEE BETTER  语义分割parsenet
+2015  Learning Deconvolution Network for Semantic Segmentation  图像分割的反卷积网络
+2015  ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks  基于RNN的物体检测
+2016  Deep Residual Learning for Image Recognition  residual网络
+2016  Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue  单目测距网络
+2016  Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  使用dropout近似贝叶斯
 2016  VidLoc: 6-DoF Video-Clip Relocalization  VidLoc视频6自由度定位，双向LSTM
 2016  Deep Convolutional Neural Network for 6-DOF Image Localization  深度卷积网络，6自由度定位
 2016  Learning to Fuse: A Deep Learning Approach to Visual-Inertial Camera Pose Estimation  深度融合-传感器融合
@@ -20,7 +41,15 @@
 2016  PlaNet - Photo Geolocation with Convolutional Neural Networks  照片定位，卷积神经网络
 2016  Exploring Representation Learning with CNNs for Frame to Frame Ego-Motion Estimation  基于CNN表示的视觉里程计
 2016  gvnn: Neural Network Library for Geometric Computer Vision  基于几何计算机是觉得神经网络库
+2016  SSD: Single Shot MultiBox Detector  物体检测SSD网络
+2016  Generative Adversarial Imitation Learning  模仿学习
+2016  Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image  基于不确定性的图像定位
+2016  BAYESIAN CONVOLUTIONAL NEURAL NETWORKS WITH BERNOULLI APPROXIMATE VARIATIONAL INFERENCE  基于伯努利变分推断的贝叶斯神经网络
 2016  PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization  CNN视觉6自由度定位
-2016  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation  图像分割网络，像素级标注
+2016  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation  图像语义分割网络，像素级标注
+2016  Fully Convolutional Networks for Semantic Segmentation  图像语义分割网络，全卷积网络
+2016  Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding 贝叶斯segnet
+2016  Image Denoising Using Very Deep Fully Convolutional Encoder-Decoder Networks with Symmetric Skip Connections  图像去噪
 2017  Relative Camera Pose Estimation Using Convolutional Neural Networks  深度网络里程计
+2017  Deep Bilateral Learning for Real-Time Image Enhancement  图像增强 google
 2017  Image-based localization using LSTMs for structured feature correlation  LSTM图像定位
