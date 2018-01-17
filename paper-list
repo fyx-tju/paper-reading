@@ -1,0 +1,26 @@
+年份  论文  概要
+2011  Visual odometry [tutorial]  视觉里程计综述
+2012  ImageNet Classification with Deep Convolutional Neural Networks  Alex网络 by Hinton
+2013  Visualizing and Understanding Convolutional Networks  反卷积网络
+2013  Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics 图片描述生成
+2014  Real-time Depth Enhanced Monocular Odometry  激光辅助单目里程计DEMO
+2014  LOAM: Lidar Odometry and Mapping in Real-time  激光里程计LOAM
+2014  Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition 空间金字塔池化
+2014  Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps  显著图-神经网络可视化
+2015  Deep Hashing for Compact Binary Codes Learning  深度哈希
+2015  Spatial Transformer Networks  空间转换网络
+2015  Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast  视觉激光里程计VLOAM
+2015  Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting  卷积LSTM网络
+2015  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling  图像分割网络，像素级标注
+2016  VidLoc: 6-DoF Video-Clip Relocalization  VidLoc视频6自由度定位，双向LSTM
+2016  Deep Convolutional Neural Network for 6-DOF Image Localization  深度卷积网络，6自由度定位
+2016  Learning to Fuse: A Deep Learning Approach to Visual-Inertial Camera Pose Estimation  深度融合-传感器融合
+2016  Visual Instance Retrieval with Deep Convolutional Networks  视觉检索，深度卷积网络
+2016  Night-time Indoor Relocalization Using Depth Image with Convolutional Neural Networks  夜间定位，基于带有深度的视觉信息
+2016  PlaNet - Photo Geolocation with Convolutional Neural Networks  照片定位，卷积神经网络
+2016  Exploring Representation Learning with CNNs for Frame to Frame Ego-Motion Estimation  基于CNN表示的视觉里程计
+2016  gvnn: Neural Network Library for Geometric Computer Vision  基于几何计算机是觉得神经网络库
+2016  PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization  CNN视觉6自由度定位
+2016  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation  图像分割网络，像素级标注
+2017  Relative Camera Pose Estimation Using Convolutional Neural Networks  深度网络里程计
+2017  Image-based localization using LSTMs for structured feature correlation  LSTM图像定位
