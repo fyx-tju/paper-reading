@@ -30,6 +30,7 @@
 2015  PARSENET: LOOKING WIDER TO SEE BETTER  语义分割parsenet
 2015  Learning Deconvolution Network for Semantic Segmentation  图像分割的反卷积网络
 2015  ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks  基于RNN的物体检测
+2016  Accurate and Robust Lane Detection based on Dual-View Convolutional Neutral Network  百度车道线检测，DVCNN网络
 2016  Deep Residual Learning for Image Recognition  residual网络
 2016  Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue  单目测距网络
 2016  Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  使用dropout近似贝叶斯
