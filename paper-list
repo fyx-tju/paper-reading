@@ -50,6 +50,7 @@
 2016  BAYESIAN CONVOLUTIONAL NEURAL NETWORKS WITH BERNOULLI APPROXIMATE VARIATIONAL INFERENCE  基于伯努利变分推断的贝叶斯神经网络
 2016  PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization  CNN视觉6自由度定位
 2016  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation  图像语义分割网络，像素级标注
+2016  Adaptive Inverse Perspective Mapping for Lane Map Generation with SLAM  自适应IPM
 2016  Fully Convolutional Networks for Semantic Segmentation  图像语义分割网络，全卷积网络
 2016  Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding 贝叶斯segnet
 2016  Image Denoising Using Very Deep Fully Convolutional Encoder-Decoder Networks with Symmetric Skip Connections  图像去噪
