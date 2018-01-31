@@ -1,5 +1,7 @@
 年份  论文  概要
 2005 Thresholding technique with adaptive window selection for uneven lighting image  自适应图像二元化
+2010  Distance Determination for an Automobile Environment using Inverse Perspective Mapping in OpenCV  使用IPM进行距离估算
+
 2011  Visual odometry [tutorial]  视觉里程计综述
 2012  ImageNet Classification with Deep Convolutional Neural Networks  Alex网络 by Hinton
 2013  Distributed Representations ofWords and Phrases and their Compositionality  词向量google
