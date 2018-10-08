@@ -45,7 +45,7 @@
 2016  Night-time Indoor Relocalization Using Depth Image with Convolutional Neural Networks  夜间定位，基于带有深度的视觉信息
 2016  PlaNet - Photo Geolocation with Convolutional Neural Networks  照片定位，卷积神经网络
 2016  Exploring Representation Learning with CNNs for Frame to Frame Ego-Motion Estimation  基于CNN表示的视觉里程计
-2016  gvnn: Neural Network Library for Geometric Computer Vision  基于几何计算机是觉得神经网络库
+2016  gvnn: Neural Network Library for Geometric Computer Vision  基于几何计算机视觉的神经网络库
 2016  SSD: Single Shot MultiBox Detector  物体检测SSD网络
 2016  Generative Adversarial Imitation Learning  模仿学习
 2016  Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image  基于不确定性的图像定位
