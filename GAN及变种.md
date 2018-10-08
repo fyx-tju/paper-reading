@@ -1,0 +1,11 @@
+- 2014年 Generative Adversarial Nets (GAN)
+- 2014年 Conditional Generative Adversarial Nets（Conditional GAN)
+- 2015年 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONALGENERATIVE ADVERSARIAL NETWORKS（DCGAN)
+- 2017年 Conditional Image Synthesis with Auxiliary Classifier GANs（ACGAN)
+- 2017年 ENERGY-BASED GENERATIVE ADVERSARIAL NETWORKS（EBGAN)
+- 2017年 BEGAN: Boundary Equilibrium Generative Adversarial Networks（BEGAN)
+- 2017年 Wasserstein GAN（WGAN)
+- 2017年 InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets（InfoGAN）
+- 2018年 SEMANTICALLY DECOMPOSING THE LATENT SPACES OF GENERATIVE ADVERSARIAL NETWORKS（SDGAN)
+- 2018年 Improved Training of Wasserstein GANs（WGAN-GP)
+- 2019年 LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS（BIG GAN)
